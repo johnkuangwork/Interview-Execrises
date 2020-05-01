@@ -1,5 +1,4 @@
 # Interview-Execrises
-Solution to Interview Execrises
 
 This is a playground for students/job seekers to practice coding and understanding of data science 
 - All questions have removed the employer's name and any source where it may come from.
@@ -7,3 +6,6 @@ This is a playground for students/job seekers to practice coding and understandi
 - Most questions you need to complete in Excel, SQL, or Python.
 
 Good Luck and Have Fun!
+
+Directory:
+Finance - SQL, Pandas, Numpy, Time-Series, Chi-Square Test, One-Way ANOVA, Post-Hoc Test
