@@ -1,4 +1,5 @@
-## Are you interviewing for Data Science positions?
+# Data Science Interviews
+
 <img src="Img/Robot.jpg">
 
 ### This is a playground for students/job seekers to practice coding and understanding of data science 
