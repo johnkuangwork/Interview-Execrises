@@ -5,7 +5,9 @@ This is a playground for students/job seekers to practice coding and understandi
 - Solutions are opened end. 
 - Most questions you need to complete in Excel, SQL, or Python.
 
-Good Luck and Have Fun!
-
 Directory:
-Finance - SQL, Pandas, Numpy, Time-Series, Chi-Square Test, One-Way ANOVA, Post-Hoc Test
+1. Finance - SQL, Pandas, Numpy, Time-Series, Chi-Square Test, One-Way ANOVA, Post-Hoc Test
+
+
+
+Finally, Good Luck and Have Fun!
